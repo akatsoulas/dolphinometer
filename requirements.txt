@@ -1,0 +1,5 @@
+bottle==0.12.8
+jinja2==2.7.3
+honcho==0.6.6
+sqlalchemy==1.0.4
+SQLAlchemy-Wrapper==1.4.0
